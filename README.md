@@ -28,5 +28,6 @@ artikel_suchen: Sucht nach Artikeln in der Einkaufsliste.
 Für eine benutzerfreundliche Darstellung von wichtigen Informationen in der Konsole werden farbige Ausgaben über das Modul colorama unterstützt.
 5. Virtuelle Umgebung und Abhängigkeiten
 Das Projekt wurde in einer virtuellen Umgebung ausgeführt, um die Entwicklungsumgebung von der globalen Python-Installation zu isolieren. Alle notwendigen Abhängigkeiten des Projekts, einschließlich colorama und json, wurden in einer requirements.txt Datei gespeichert, um eine einfache Reproduzierbarkeit der Umgebung zu gewährleisten. Diese Datei listet alle notwendigen Python-Pakete und deren Versionen auf, die für den reibungslosen Ablauf des Programms erforderlich sind.
-Zusammenfassung
+
+#Zusammenfassung
 Das Projekt stellt eine vollständig objektorientierte Lösung für die Verwaltung einer Einkaufsliste bereit. Durch die Nutzung von JSON zur Speicherung und die Einführung einer Vererbungshierarchie bietet es flexible und erweiterbare Funktionen. Die Farbausgabe in der Konsole verbessert zudem die Benutzerfreundlichkeit.
